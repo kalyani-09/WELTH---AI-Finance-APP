@@ -44,7 +44,7 @@ const Hero=()=>{
                         Get started
                     </Button>
                     </Link>
-                     <Link href="https://www.youtube.com/roadsidecoder">
+                     <Link href="www.google.com">
                     <Button size="lg" variant="outline" className ="px-8">
                        Watch Demo
                     </Button>
