@@ -44,7 +44,7 @@ const Hero=()=>{
                         Get started
                     </Button>
                     </Link>
-                     <Link href="www.google.com">
+                     <Link href="https://drive.google.com/file/d/1s79IgQQO_-6gsQy3aTkK4rDpqT1xtvOn/view?usp=sharing">
                     <Button size="lg" variant="outline" className ="px-8">
                        Watch Demo
                     </Button>
